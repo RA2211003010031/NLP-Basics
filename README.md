@@ -7,7 +7,7 @@ The chatbot is built using **Natural Language Processing (NLP)** techniques and 
 
 ## Project Files
 
-- **`NLP_project-chatbot.ipynb`**  
+- **`Chatbot.ipynb`**  
   Main implementation of the chatbot, including preprocessing, model training, and chatbot interaction.
 
 - **`NLPproject.ipynb`**  
