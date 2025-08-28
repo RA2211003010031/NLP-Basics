@@ -3,7 +3,7 @@
 This repository contains two Jupyter notebooks that demonstrate the development of a simple **NLP-based chatbot**.  
 The chatbot is built using **Natural Language Processing (NLP)** techniques and machine learning methods to process user queries and return meaningful responses.
 
----
+----
 
 ## Project Files
 
